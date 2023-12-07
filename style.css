@@ -16,14 +16,12 @@
 #yellow{
     color: yellow;
 }
-.color-tithle{
+.color-title{
     font-weight: normal
 }
 
 img{
-    height: 200px
+    height: 200px;
+    width: 200px;
 }
 
-img{
-    width: 200px
-}
